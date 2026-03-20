@@ -1,0 +1,51 @@
+[
+    {
+        "title": "This Webpage",
+        "description": "This webpage was produced while studying Semantic HTML and Responsiveness through CSS transitions and media queries.",
+        "image": "images/portfolio-example.png",
+        "image_alt": "A printscreen of this webpage with some placeholder information in it.",
+        "url": "#"
+    },
+    {
+        "title": "Tic Tac Toe with Python",
+        "description": "A simple command line game of Tic Tac Toe developed with Python.",
+        "image": "images/tic-tac-toe-python.png",
+        "image_alt": "An image of a Tic Tac Toe game running in command line.",
+        "url": "https://github.com/ivanelisandro/python-portfolio/tree/main/tic-tac-toe"
+    },
+    {
+        "title": "Project Placeholder 3",
+        "description": "Short description...",
+        "image": "images/placeholder-image.jpg",
+        "image_alt": "A placeholder image without meaning, used for a placeholder item.",
+        "url": "#"
+    },
+    {
+        "title": "Project Placeholder 4",
+        "description": "Short description...",
+        "image": "images/placeholder-image.jpg",
+        "image_alt": "A placeholder image without meaning, used for a placeholder item.",
+        "url": "#"
+    },
+    {
+        "title": "Project Placeholder 5",
+        "description": "Short description...",
+        "image": "images/placeholder-image.jpg",
+        "image_alt": "A placeholder image without meaning, used for a placeholder item.",
+        "url": "#"
+    },
+    {
+        "title": "Project Placeholder 6",
+        "description": "Short description...",
+        "image": "images/placeholder-image.jpg",
+        "image_alt": "A placeholder image without meaning, used for a placeholder item.",
+        "url": "#"
+    },
+    {
+        "title": "Project Placeholder 7",
+        "description": "Short description...",
+        "image": "images/placeholder-image.jpg",
+        "image_alt": "A placeholder image without meaning, used for a placeholder item.",
+        "url": "#"
+    }
+]
